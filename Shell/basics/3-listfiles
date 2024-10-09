@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l #-l complete list with all data info exept hidden files

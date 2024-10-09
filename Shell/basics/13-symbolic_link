@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /bin/ls __ls__ #add a symbolic link to the path /bin/ls
